@@ -1,8 +1,8 @@
 # Pride Pack
 This is a Pride Themed Minecraft Resource Pack.
 It has many colored blocks switched to Pride Flags and even changes Music Disks to have LGBT songs (in note block cover).
-## Why new page
-You might have seen my previous "Pride Pack" packs, but i decided to make a new page to update it to "CanalNu" branding and other stuff. Also to force TLMods literally tell you to not use it :skull:
+## Why different project
+This is a separate *repository* that has the pre-1.13 versions of the pack.
 ## Why exists
 Because pride. If you're asking "Why lgbt pride exists", get out of here.
 ## Can we has screenshots
@@ -11,16 +11,6 @@ Yes.
 Most textures in game
 
 ![Most textures in game](https://i.imgur.com/KGTczXF.png)Bii
-
-![Bii](https://i.imgur.com/cEkTU1z.png)Bii in different place
-
-![Bii in different place](https://i.imgur.com/sRjKnkQ.png)
-
-Biis sniffing flowers
-
-![Biis sniffing flowers](https://i.imgur.com/mTwe9yh.png)Biis sniffing flowers²
-
-![Biis sniffing flowers²](https://i.imgur.com/FseGPbT.png)
 
 Main Menu
 
@@ -45,6 +35,8 @@ Thank you Bake for making better bed textures
 Thank you VictoriaMoon#8393 for lesbian stuff
 
 Thank you ![Microsoft](https://github.com/microsoft/Pride-flag) for the pride wallpaper
+
+Thank you UnlikePaladin for helping in the project and being the main programmer for PrideMod.
 
 Thank you PandaNinjas#3017, Minenash#2222, Pythagoras_314#5176, astroidbuster#3478, BucketOfCompasses#8790, guenther42horst#4268 əนѻʇƨρәɻ_ҋا_ʇɒƆ#4748, hisashiburi#0981, asoji for suggestions
 
