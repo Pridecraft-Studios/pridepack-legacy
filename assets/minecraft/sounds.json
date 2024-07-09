@@ -1,0 +1,8 @@
+"music.menu": {
+    "sounds": [
+    {
+    "name": "music/menu/joy",
+    "stream": true
+    }
+]
+}
