@@ -1,9 +1,11 @@
 # PridePack Versioning
+
 The versioning shall consist of three elements:
+
 - Major Version `M.u.f`
-- Update Version `m.U.f`
-- Fix Version `m.u.F`
+- Format Version `m.F.u`
+- Fix Version `m.f.U`
 
-With `major` being bumped in relation to Minecraft's major release, and the other ones following [`semver`](https://semver.org)
+With `Format` being the Minecraft versions' Resource/Texture Pack Format version, and the other ones following [`semver`](https://semver.org)
 
-For example, in 1.21, the first release is 6.0.0. If we had released a version for 1.20.6, the next version would be 5.2.
+For example, in b1.7.3, the release is 1.0.0, because the `Resource Pack Format` didn't exist until 1.6. In the 1.6.1 version should be 1.1.0, as the `Resource Pack Format` version for 1.6.1 is `1`.

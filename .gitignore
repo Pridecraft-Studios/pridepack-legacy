@@ -45,3 +45,6 @@ pridepack-5.0-dev.zip_bruh
 *.zip
 .bbprojects/
 .bbmodels/
+
+# legacy stuff
+.versions/
