@@ -1,6 +1,20 @@
 language.name=Gayed English
-language.region=US
-language.code=en_US
+language.region=United States
+language.code=en_us
 
-tile.bed.name=Gay Bed
-item.bed.name=Gay Bed
+item.bed.black.name=Non-Binary Bed
+item.bed.red.name=Gay Bed
+item.bed.green.name=Intersex Bed
+item.bed.brown.name=Agender Bed
+item.bed.blue.name=Bigender Bed
+item.bed.purple.name=Bisexual Bed
+item.bed.cyan.name=Gay Men Bed
+item.bed.silver.name=Asexual Bed
+item.bed.gray.name=Aromantic Bed
+item.bed.pink.name=Aplatonic Bed
+item.bed.lime.name=Gender Fluid Bed
+item.bed.yellow.name=Pansexual Bed
+item.bed.lightBlue.name=Trans Bed
+item.bed.magenta.name=Aroace Bed
+item.bed.orange.name=Lesbian Bed
+item.bed.white.name=Progress Bed
