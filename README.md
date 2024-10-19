@@ -1,8 +1,8 @@
-# PridePack Legacy
+# Pridepack Legacy
 
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/i41V4GAy?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridepack-legacy/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack-legacy?style=for-the-badge&logo=github) 
 
-This is PridePack, a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay). It comes with many LGBT Pride additions, such as paintings, beds, mobs and Main Menu changes.
+This is Pridepack, a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay). It comes with many LGBT Pride additions, such as paintings, beds, mobs and Main Menu changes.
 
 ## Donate
 
