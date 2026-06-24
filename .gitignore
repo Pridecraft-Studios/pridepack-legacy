@@ -28,11 +28,9 @@ Temporary Items
 .apdisk
 
 # other non-macos stuff
--icons/
 *.mp4
 *.raw
 *.avif
-.FuturePack/
 pridepack-dev.zip
 /.idea/
 *.pdn
@@ -41,7 +39,9 @@ pridepack-dev.zip
 *.zip
 .bbprojects/
 .bbmodels/
+.assets_helper/
 
 # legacy stuff
 .versions/
-.vanillaassets/
+bta/
+releases/
