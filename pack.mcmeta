@@ -1,6 +1,24 @@
 {
   "pack": {
-    "pack_format": 4,
-    "description": "Pridepack Legacy 2.0+1.13"
+    "min_format": 16,
+    "max_format": 9999,
+    "pack_format": 16,
+    "supported_formats": [
+      16,
+      9999
+    ],
+    "description": {
+      "text": "Pridepack 2.0",
+      "extra": [
+        {
+          "text": "+1.13 (1.13 - 26.3+)"
+        },
+        {
+          "text": "Enable Programmer art!",
+          "italic": true
+        }
+      ],
+      "color": "white"
+    }
   }
 }
