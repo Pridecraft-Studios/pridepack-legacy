@@ -41,6 +41,9 @@ pridepack-dev.zip
 .bbmodels/
 .assets_helper/
 
+# Temporary stuff
+.temp/
+
 # legacy stuff
 .versions/
 bta/
