@@ -11,14 +11,27 @@
       "text": "Pridepack 2.0",
       "extra": [
         {
-          "text": "+1.13 (1.13 - 26.3+)"
+          "text": "+1.13"
         },
         {
-          "text": "Enable Programmer art!",
+          "text": "\nEnable Programmer art!",
           "italic": true
         }
       ],
       "color": "white"
     }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "min_format": 16,
+        "max_format": 9999,
+        "formats": [
+          16,
+          64
+        ],
+        "directory": "format16"
+      }
+    ]
   }
 }
