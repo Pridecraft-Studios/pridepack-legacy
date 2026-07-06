@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*           text=auto
+
+# Explicits
+*.bat       text=crlf
+*.sh        text=lf
+./gradlew   text=lf
+
+# Binary files
+*.png       binary

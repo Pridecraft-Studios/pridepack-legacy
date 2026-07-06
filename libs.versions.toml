@@ -1,0 +1,8 @@
+[versions]
+
+[plugins]
+minotaur = { id = "com.modrinth.minotaur", version = "2.+" }
+
+[libraries]
+
+[bundles]
